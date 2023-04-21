@@ -1,0 +1,3 @@
+# JEE Assignments <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Icon" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Icon" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Icon" width="50" height="50"/> 
+
+This is a collection of assignments and practice exercises of the Jakarta Enterprise Edition **(Jakarta EE)** and the Spring framework for the "JEE Architecture and Middlewares" module at ENSET.
